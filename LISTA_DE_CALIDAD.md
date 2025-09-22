@@ -70,6 +70,6 @@ Para medir la calidad del proyecto, se definen las siguientes métricas:
 
 ---
 
-## ✅ Conclusión
+##  Conclusión
 Este **Plan de Calidad** proporciona una guía estructurada para garantizar que el Stellar Token Launchpad cumpla con los estándares técnicos y las expectativas de la comunidad SCF.  
 Su aplicación permitirá entregar un producto **seguro, confiable y usable**, alineado con las mejores prácticas de calidad de software.
